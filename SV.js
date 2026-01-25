@@ -25,7 +25,7 @@ function grandit() {
         btn.style.width = (width + 50) + "px";
         btn.style.height = (width + 50) + "px";
     }
-    let text = ['pk pas ? ;(','alleeeer stppp :(((', 'je vais pleurer snif :C', 'ca va être trop bien... promis !!', 'arretes tu vas me briser le coeur </3']
+    let text = ['pk pas ? ;(','alleeeer stppp :((', 'jvais te tuer :)', 'ca va être trop bien... promis !!', 'arretes tu vas me briser le coeur </3']
     let rep = document.getElementById('rep');
     rep.textContent = text[getRandomInt(5)] ;
 }
